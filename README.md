@@ -73,7 +73,7 @@ The system is modular and consists of:
 ├── btn_edge.v
 ├── seven_segment.v
 ├── Basys3_Elevator.xdc
-├── Elevator_Control_System.pdf
+
 ```
 
 ---
